@@ -10,19 +10,6 @@ Possuo experiência com testes manuais, análise de logs (ISO8583 e REST), cria�
 
 ---
 
-### 🧪 Principais Habilidades
-
-- Testes manuais e automatizados
-- Planejamento de cenários de teste
-- Automação com Cypress, Playwright, Selenium
-- Análise de logs (ISO8583, REST)
-- Controle de versão com GitLab/GitHub
-- Banco de dados (SQL Developer)
-- Documentação com Postman, Swagger
-- Metodologias ágeis e uso do Jira
-
----
-
 ### 🚀 Ferramentas & Tecnologias
 
 <img align="left" alt="Cypress" title="Cypress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" />
