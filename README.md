@@ -45,7 +45,7 @@ Possuo experiência com testes manuais, análise de logs (ISO8583 e REST), cria�
 ### 🎓 Formação Acadêmica
 
 - 🎓 **Tecnólogo em Gestão de TI** – UniRitter (2022 - Atual)
-- 📘 **Técnico em Processamento de Dados** – Geração Caldeira (2024)
+- 📘 **Analise de dados** – Geração Caldeira (2024)
 
 ---
 
