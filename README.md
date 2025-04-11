@@ -49,3 +49,9 @@ Possuo experiência com testes manuais, análise de logs (ISO8583 e REST), cria�
 
 🧠 Sempre disposto a aprender e colaborar com times de desenvolvimento para garantir a qualidade e confiabilidade das entregas. Vamos conversar? 😄
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizTech01/LuizTech01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizTech01/LuizTech01/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuizTech01/LuizTech01/output/github-contribution-grid-snake.svg">
+</picture>
+
