@@ -6,9 +6,7 @@ Olá! Me chamo Luiz Flávio, atuo como Analista de Qualidade de Software, com fo
 
 Possuo experiência com testes manuais, análise de logs (ISO8583 e REST), criação de evidências, documentação de bugs e melhorias, além de automação com ferramentas como Cypress, Selenium e Playwright. Também mantenho projetos no meu GitHub onde compartilho estudos e automações.
 
-📫 Contato: luizflavio010@gmail.com  
-📍 Alvorada – RS  
-🔗 [LinkedIn](https://www.linkedin.com/in/luizflaviog) | [GitHub](https://github.com/LuizTech01)
+📫 Contato: luizflavio010@gmail.com
 
 ---
 
