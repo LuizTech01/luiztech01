@@ -2,7 +2,7 @@
 
 **`Analista de QA`**
 
-Olá! Me chamo Luiz Flávio, atuo como Analista de Qualidade de Software, com foco em testes manuais e automação. Atualmente curso **Gestão de Tecnologia da Informação** na UniRitter e estou em constante aprendizado, buscando sempre aprimorar meus conhecimentos técnicos e habilidades analíticas.
+Olá! Me chamo Luiz Flávio, atuo como Analista de Qualidade de Software, com foco em testes manuais e automação. E estou em constante aprendizado, buscando sempre aprimorar meus conhecimentos técnicos e habilidades analíticas.
 
 Possuo experiência com testes manuais, análise de logs (ISO8583 e REST), criação de evidências, documentação de bugs e melhorias, além de automação com ferramentas como Cypress, Selenium e Playwright. Também mantenho projetos no meu GitHub onde compartilho estudos e automações.
 
